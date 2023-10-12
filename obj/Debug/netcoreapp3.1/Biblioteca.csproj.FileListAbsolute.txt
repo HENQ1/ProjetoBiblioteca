@@ -51,3 +51,7 @@ C:\Users\Henrique\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Bib
 C:\Users\Henrique\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Henrique\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Henrique\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\administrador.cshtml.g.cs
+C:\Users\Henrique\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\EditarUsuario.cshtml.g.cs
+C:\Users\Henrique\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\Henrique\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
